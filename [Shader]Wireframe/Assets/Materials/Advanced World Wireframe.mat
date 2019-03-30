@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Advanced World Wireframe
-  m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
+  m_Shader: {fileID: 4800000, guid: cbe4239a53ea7274eab9a837a067d889, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -43,7 +43,15 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_2997E792_Out:
+        m_Texture: {fileID: 2800000, guid: 0127b432a700f7f4099700ea07831712, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Floats:
+    - Vector1_5EA0A5AF: 0.5
+    - Vector1_6CA57F82: 1
+    - Vector1_869921B9: -1
+    - Vector1_A6D562F9: 0
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -63,6 +71,9 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
+    - Color_2DC84022: {r: 0, g: 1, b: 0.11084986, a: 0}
+    - Color_F1AA3410: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_CA569BD8: {r: 0.5, g: 0.5, b: 0, a: 0}
     - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
